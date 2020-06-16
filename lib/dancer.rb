@@ -15,5 +15,5 @@ class Dancer
   include 
    FancyDance::InstanceMethods
 end
-
+end
 end
