@@ -11,5 +11,7 @@ module Dance
    "I'm doing a pirouette"
   end
 
- def 
+ def take_a_bow 
+ 
+ end
 end 
